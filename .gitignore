@@ -3,3 +3,6 @@
 
 # environment
 .venv/
+
+# playright-hudl
+/notebooks/.playright-hudl/
