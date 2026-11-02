@@ -3,6 +3,8 @@
 
 # environment
 .venv/
+__pycache__/
+*.pyc
 
 # playright-hudl
 /notebooks/.playright-hudl/

@@ -1,0 +1,6 @@
+WRN 2026-10-29T14:58:42.111 ?.72846    server_start:193: Failed to start server: operation not permitted: /var/folders/fm/qj_82bcd34z3trb4dj50s0180000gp/T/nvim.luke/k2DCTF/nvim.72846.0
+WRN 2026-10-29T15:00:30.680 ?.73041    server_start:193: Failed to start server: operation not permitted: /var/folders/fm/qj_82bcd34z3trb4dj50s0180000gp/T/nvim.luke/jrz40T/nvim.73041.0
+WRN 2026-10-29T15:04:23.546 ?.73815    server_start:193: Failed to start server: operation not permitted: /var/folders/fm/qj_82bcd34z3trb4dj50s0180000gp/T/nvim.luke/os2uNH/nvim.73815.0
+WRN 2026-10-29T15:04:58.198 ?.75384    server_start:193: Failed to start server: operation not permitted: /var/folders/fm/qj_82bcd34z3trb4dj50s0180000gp/T/nvim.luke/MMmSrM/nvim.75384.0
+WRN 2026-10-29T15:05:02.337 ?.75400    server_start:193: Failed to start server: operation not permitted: /var/folders/fm/qj_82bcd34z3trb4dj50s0180000gp/T/nvim.luke/1nHC1A/nvim.75400.0
+WRN 2026-10-29T15:05:08.902 ?.75425    server_start:193: Failed to start server: operation not permitted: /var/folders/fm/qj_82bcd34z3trb4dj50s0180000gp/T/nvim.luke/AkMpsZ/nvim.75425.0
